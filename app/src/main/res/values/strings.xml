@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Workstation OS</string>
+    <string name="accessibility_description">Enforces focus rules by closing distracting apps and triggering productivity voice notifications.</string>
+</resources>
